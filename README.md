@@ -1,6 +1,6 @@
-# phoenix
-phoenix Is a api
+# Phoenix
+> An extensive API made to provide unlimited access to data and Discord bots.
 
-Features 
-
-Cat Picts
+## Features
+* Cat pictures
+* And more!
